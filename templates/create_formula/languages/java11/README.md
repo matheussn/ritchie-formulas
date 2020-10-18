@@ -3,7 +3,7 @@
 ## command
 
 ```bash
-#rit-replace{formulaCmd}
+rit hacktober fest
 ```
 
 ## description
